@@ -1,1 +1,30 @@
-
+{
+  "name": "AEDT (Tethered AED)",
+  "website": "https://tetheraedt.io",
+  "description": "AEDT is a TRON-based TRC20 token designed for fast, transparent, and efficient digital value transfer. It focuses on stable-oriented usability, low fees, and accessibility across wallets, exchanges, and DeFi infrastructure.",
+  "explorer": "https://tronscan.io/#/token20/TV714TT9aQftbkYBjWiVExCxNZm9nPJX6K",
+  "type": "TRC20",
+  "symbol": "AEDT",
+  "decimals": 6,
+  "status": "active",
+  "id": "TV714TT9aQftbkYBjWiVExCxNZm9nPJX6K",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://tetheraedt.io"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/cryptoassetsalpha-ui/ASSETS"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/aedt_token"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/aedt_token"
+    }
+  ],
+  "tags": ["stablecoin"]
+}
